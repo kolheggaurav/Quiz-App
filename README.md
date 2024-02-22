@@ -10,4 +10,4 @@ Author- Gaurav Kolhe(GK)
 -API used for computer science quiz.
 -Powered by JavaScript, HTML and CSS.
 
-Webpage published at 
+Webpage published at  https://kolheggaurav.github.io/Quiz-App/
