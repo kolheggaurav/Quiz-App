@@ -1,4 +1,4 @@
 # Quiz-App
 The new way of learning
 <br>
-Author- Gaurav Kolhe
+Author- Gaurav Kolhe(GK)
